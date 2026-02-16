@@ -1,0 +1,7 @@
+{
+  "name": "Premium Calculator Vault",
+  "description": "A secure Android-style calculator vault with hidden gallery, video storage, browser, and entertainment features.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
